@@ -1,1 +1,1 @@
-# wp-troubleshoot
+# WordPress Error Troubleshooting
